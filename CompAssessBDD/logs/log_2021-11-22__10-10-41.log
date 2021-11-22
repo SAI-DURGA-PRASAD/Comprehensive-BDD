@@ -1,0 +1,46 @@
+2021-11-22 10:10:42,787  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:10:42,925  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:10:59,196  INFO [main] StepDefinitions:125 - System added item to cart and entered into CheckoutPage
+ 2021-11-22 10:10:59,696  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:11:00,717  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:11:00,851  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:11:19,849  INFO [main] StepDefinitions:165 - System added item to cart with giftWrap and entered into CheckoutPage
+ 2021-11-22 10:11:20,300  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:11:21,354  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:11:21,498  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:11:27,540  INFO [main] StepDefinitions:94 - Birthday GiftsPage title is validated
+ 2021-11-22 10:11:28,499  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:11:29,500  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:11:29,640  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:11:38,277  INFO [main] StepDefinitions:181 - System successfully entered the details shown robotCheckNote
+ 2021-11-22 10:11:38,668  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:11:39,669  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:11:39,795  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:11:59,891  INFO [main] StepDefinitions:212 - System clicked on same GiftCard Value as mentioned
+ 2021-11-22 10:12:00,439  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:12:01,468  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:12:01,594  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:12:09,277  INFO [main] StepDefinitions:240 - System successfully entered login details
+ 2021-11-22 10:12:09,727  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:12:10,664  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:12:10,803  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:12:17,790  INFO [main] StepDefinitions:240 - System successfully entered login details
+ 2021-11-22 10:12:18,182  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:12:19,210  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:12:19,340  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:12:27,247  INFO [main] StepDefinitions:257 - System shown the bestselling product
+ 2021-11-22 10:12:27,928  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:12:28,889  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:12:29,038  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:12:35,068  INFO [main] StepDefinitions:283 - System shown the first book as mentioned
+ 2021-11-22 10:12:35,511  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:12:36,573  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:12:36,713  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:12:39,715  INFO [main] StepDefinitions:67 - Homepage title is validated
+ 2021-11-22 10:12:40,276  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 2021-11-22 10:12:41,269  INFO [main] StepDefinitions:20 - Started the Chrome Browser
+ 2021-11-22 10:12:41,413  INFO [main] StepDefinitions:45 - driver Initialized successfully
+ 2021-11-22 10:12:47,135  INFO [main] StepDefinitions:313 - Desired item found in Whats new page
+ 2021-11-22 10:12:54,425  INFO [main] StepDefinitions:318 - System opened the desired item
+ 2021-11-22 10:12:55,039  INFO [main] StepDefinitions:82 - End of StepDefinitions TestCase
+ 

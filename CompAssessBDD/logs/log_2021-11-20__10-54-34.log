@@ -1,0 +1,44 @@
+2021-11-20 22:54:35,799  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:54:35,946  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:55:05,961  INFO [main] StepDefinitions:119 - System added item to cart and entered into CheckoutPage
+ 2021-11-20 22:55:06,307  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:55:07,081  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:55:07,235  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:55:41,587  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:55:41,745  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:56:01,403  INFO [main] StepDefinitions:89 - Birthday GiftsPage title is validated
+ 2021-11-20 22:56:01,713  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:56:04,339  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:56:04,499  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:56:41,429  INFO [main] StepDefinitions:173 - System successfully entered the details shown robotCheckNote
+ 2021-11-20 22:56:41,735  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:56:44,136  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:56:44,275  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:57:10,527  INFO [main] StepDefinitions:202 - System clicked on same GiftCard Value as mentioned
+ 2021-11-20 22:57:10,805  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:57:13,171  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:57:13,307  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:57:34,197  INFO [main] StepDefinitions:229 - System successfully entered login details
+ 2021-11-20 22:57:34,457  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:57:36,863  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:57:37,010  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:57:51,354  INFO [main] StepDefinitions:229 - System successfully entered login details
+ 2021-11-20 22:57:51,625  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:57:54,008  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:57:54,155  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:58:09,235  INFO [main] StepDefinitions:245 - System shown the bestselling product
+ 2021-11-20 22:58:09,528  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:58:11,875  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:58:12,016  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:58:26,135  INFO [main] StepDefinitions:270 - System shown the first book as mentioned
+ 2021-11-20 22:58:31,432  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:58:33,783  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:58:33,921  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:58:42,719  INFO [main] StepDefinitions:63 - Homepage title is validated
+ 2021-11-20 22:58:42,984  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 2021-11-20 22:58:45,318  INFO [main] StepDefinitions:34 - Started the Edge Browser
+ 2021-11-20 22:58:45,457  INFO [main] StepDefinitions:41 - driver Initialized successfully
+ 2021-11-20 22:59:01,225  INFO [main] StepDefinitions:299 - Desired item found in Whats new page
+ 2021-11-20 22:59:14,089  INFO [main] StepDefinitions:304 - System opened the desired item
+ 2021-11-20 22:59:14,390  INFO [main] StepDefinitions:77 - End of com.bigsmall.stepDefinitions.StepDefinitions TestCase
+ 
